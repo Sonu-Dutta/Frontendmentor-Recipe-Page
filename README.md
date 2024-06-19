@@ -27,4 +27,4 @@ I learned about `::marker` pseudo-element, which is very usefull when working wi
 
 ## Author
 
-- Frontend Mentor - [@sonudutta](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm/hub)
+- Frontend Mentor - [@sonudutta](https://www.frontendmentor.io/solutions/recipe-page-ukwtue40RS)
