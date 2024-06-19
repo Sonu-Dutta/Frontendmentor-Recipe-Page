@@ -6,12 +6,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Recipe Page
 
-![](./images/project-ss.png)
+![](./design/project-ss.png)
 
 ### Links
 
 - Solution URL: [https://github.com/Sonu-Dutta/Frontendmentor-Recipe-Page](https://github.com/Sonu-Dutta/Frontendmentor-Recipe-Page)
-- Live Site URL: [https://github.com/Sonu-Dutta/Frontendmentor-Recipe-Page](https://github.com/Sonu-Dutta/Frontendmentor-Recipe-Page)
+- Live Site URL: [https://sonudutta-recipe-page.vercel.app/](https://sonudutta-recipe-page.vercel.app/)
 
 ## My process
 
